@@ -1,5 +1,8 @@
 # Events and State Self-Assessment
 
+![image](https://github.com/SeyunChung/house-of-hummus/assets/119281933/cfe26c68-abdc-45d9-a8b9-c460d63f019d)
+
+
 ## Setup
 
 1. Make sure you are in your `workspace` directory

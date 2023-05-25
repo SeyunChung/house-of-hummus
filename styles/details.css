@@ -1,0 +1,27 @@
+.choices {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.options {
+    flex-basis: 24%;
+    margin: 0 2rem;
+    border: 1px solid dodgerblue;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    box-shadow: 0.25rem 0.25rem 0.5rem darkgoldenrod;
+}
+
+.customOrders {
+    padding: 1rem 2rem;
+    font-size: 1.1rem;
+}
+
+#placeOrder {
+    color: greenyellow;
+}
+
+.buttonClass {
+    text-align: center;
+    margin-top: 1cm;
+}

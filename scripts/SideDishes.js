@@ -14,7 +14,7 @@ document.addEventListener("change", handleSideChoice)
 
 
 export const Sides = async () => {
-    // fetch the vegetables data from our local api
+    // fetch the sides data from our local api
     const response = await fetch("http://localhost:8088/sides")
     //convet data to javascript objects 
     const sides = await response.json()
